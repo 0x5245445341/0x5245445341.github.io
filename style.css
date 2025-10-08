@@ -11,10 +11,6 @@ body {
 .container {
   text-align: center;
 }
-.logo {
-  width: 120px;
-  margin-bottom: 20px;
-}
 nav a {
   color: #00ffcc;
   margin: 0 10px;
